@@ -1,30 +1,38 @@
-💻 Akhtar Hussain | Frontend Developer
-Crafting Engaging, Scalable & Modern Web Experiences
+ <h1 align="center">Hi 👋, I'm Asif Taj</h1>
 
-🔹 Frontend Developer | 💻 React | Angular | JavaScript | TypeScript | Bootstrap | WordPress | ⚡ UI/UX Enthusiast
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: axiftaj@gmail.com
+- 😄 My website: https://thetechbrothers.net
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/axiftaj">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/axif_taj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/aaxiftaj">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/axiftaj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-🌟 About Me
-Hello! I'm Akhtar Hussain, a passionate Frontend Developer & Software Engineer with expertise in building modern, responsive, and high-performance web applications. I specialize in React, Angular, and JavaScript, crafting seamless user experiences and scalable solutions.
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-With a keen eye for UI/UX design, I transform ideas into interactive and functional interfaces. I stay updated with the latest trends in frontend development, ensuring optimized and efficient code.
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-💡 Always learning & improving!
-
-🛠️ Tech Stack & Skills
-Frontend Development
-🚀 React.js | 🔥 Angular | ⚡ JavaScript (ES6+) | 💎 TypeScript | 🎨 Bootstrap 5 | 🌐 HTML5 & CSS3
-
-CMS & Web Development
-🌍 WordPress Development | 🎨 Theme Customization | ⚙️ WooCommerce Integration
-
-Tools & Technologies
-🔹 Git & GitHub | 🔹 REST APIs | 🔹 Redux & Context API | 🔹 Fluent UI | 🔹 Figma (UI/UX Design)
-
-📈 GitHub Stats & Contributions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
-📢 Connect With Me
-🌍 Portfolio: https://akhtarhossain.github.io/akhtar-portfolio/
-💼 LinkedIn: https://www.linkedin.com/in/akhtar-hussain-987668241/
-📧 Email: akhtarsaharan336@gmail.com
-Let's build something amazing together! 🚀
+<br>
+⭐️ From [axiftaj](https://github.com/axiftaj)
