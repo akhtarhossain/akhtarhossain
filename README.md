@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 **About Me**
+###  **About Me**
 - 🔭 I’m currently working on **React & Angular Projects**
 - 🌱 I’m expanding my skills in **Backend Development & Performance Optimization**
 - 🎯 Passionate about **UI/UX, Responsive Design, and Web Performance**
