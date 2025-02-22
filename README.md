@@ -1,38 +1,41 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+<h1 align="center">Hi 👋, I'm Akhtar Hussain</h1>
+<h3 align="center">Frontend Developer | React | Angular | JavaScript | TypeScript | WordPress</h3>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
+- 🔭 I’m currently working on **React & Angular Projects**
+- 🌱 I’m currently learning **Advanced Backend Development**
+- 💬 Ask me anything about **Frontend Development, UI/UX, and Web Performance**
+- 📫 How to reach me: **akhtarsaharan336@gmail.com**
+- 🌍 My **Portfolio:** [akhtar-portfolio](https://akhtarhossain.github.io/akhtar-portfolio/)
+- 💼 **LinkedIn:** [Akhtar Hussain](https://www.linkedin.com/in/akhtar-hussain-987668241/)
+- ⚡ **Fun fact:** I love optimizing web performance & crafting seamless user experiences.
+
+---
+
+### 🚀 **Connect with me:**
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/AkhtarHossain">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/akhtar-hussain-987668241/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:akhtarsaharan336@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+---
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+### 🛠 **Languages and Tools:**
+[![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,bootstrap,wordpress,figma,github,git&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+---
 
+### 📊 **GitHub Stats**
+![Akhtar Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhtarHossain&show_icons=true&theme=dark)
 
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarHossain&theme=dark)
+
+---
+
+⭐️ From [AkhtarHossain](https://github.com/AkhtarHossain)
