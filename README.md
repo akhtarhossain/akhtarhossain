@@ -19,9 +19,19 @@
 
 ---
 
-### 🛠 **Tech Stack & Tools**
+## 🎨 **Tech Stack & Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,bootstrap,wordpress,figma,github,git,vscode,tailwind&perline=7" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50px" height="50px" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50px" height="50px" /></a>
 </p>
 
 ---
@@ -51,13 +61,6 @@
   <a href="https://akhtarhossain.github.io/akhtar-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
-
----
-
-### 🎵 **Spotify Now Playing**
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=1D9BF0&border_color=ffffff" alt="Spotify Now Playing" />
 </p>
 
 ---
