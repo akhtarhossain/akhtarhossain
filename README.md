@@ -65,5 +65,12 @@
 
 ---
 
-**⭐️ If you like my work, consider giving my repositories a star!**  
-✨ From [AkhtarHossain](https://github.com/AkhtarHossain) 🚀  
+---
+### 💬 Need Assistance or Want a Custom Project?
+If you need help with a project, want to create something amazing, or need improvements in your existing application, feel free to reach out!  
+
+📩 **Contact Me:** [akhtarsaharan336@gmail.com](mailto:akhtarsaharan336@gmail.com)  
+🌍 **Portfolio:** [akhtar-portfolio](https://akhtarhossain.github.io/akhtar-portfolio/)  
+
+If you find my work helpful, **consider giving my repositories a ⭐ to show support!** 🚀
+
